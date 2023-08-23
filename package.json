@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Precious Peter",
-	"description": "My first node tutorial"
+	"description": "My first node tutorial",
+	"keywords": ["node", "freecodecamp", "express"]
 }

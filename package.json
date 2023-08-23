@@ -14,5 +14,6 @@
 	"author": "Precious Peter",
 	"description": "My first node tutorial",
 	"keywords": ["node", "freecodecamp", "express"],
-	"license":"ISC"
+	"license":"ISC",
+	"version": "1.1.0"
 }

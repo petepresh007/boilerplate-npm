@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Precious Peter"
+	"author": "Precious Peter",
+	"description": "My first node tutorial"
 }
